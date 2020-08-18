@@ -1,3 +1,5 @@
+### Summary
+This small applicaton takes in a product type and an optional number of arguments and returns the remaining product option categories with the available options.  
 
 ### Installation
 Plain Ruby  
