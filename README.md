@@ -1,6 +1,8 @@
 ### Summary
 This small applicaton takes in a product type and an optional number of arguments and returns the remaining product option categories with the available options.  
 
+For this exercise, I wanted to demonstrate the power of service objects - ruby objects that are designed to do one action. The service objects are named accordingly to its purpose, and the division of work is split step by step. The engine merely puts everything together. 
+
 ### Installation
 Plain Ruby  
 ```require 'awesome_print'``` might be useful   
