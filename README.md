@@ -6,7 +6,7 @@ Plain Ruby
 ### Running
 In terminal, navigate to the base directory and type ```ruby runner.rb``` followed by any arguments you want.  
 Format: 
-``` ruby runner.rb {TYPE} {OPTION1 OPTION2 ...} ```
+``` ruby runner.rb {TYPE} {OPTION1 OPTION2 ...} ```  
 Sample input:  
 ```ruby runner.rb sticker small```  
 ```ruby runner.rb sticker ```  
