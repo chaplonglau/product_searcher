@@ -4,8 +4,7 @@ Plain Ruby
 ```require 'awesome_print'``` might be useful   
 
 ### Running
-In terminal, navigate to the base directory, inside product_searcher, 
-and type ```ruby runner.rb``` followed by any arguments you want.  
+In terminal, navigate to the base directory and type ```ruby runner.rb``` followed by any arguments you want.  
 Format: 
 ``` ruby runner.rb {TYPE} {OPTION1 OPTION2 ...} ```
 Sample input:  
