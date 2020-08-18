@@ -1,7 +1,7 @@
 
 ### Installation
 Plain Ruby  
-```require awesome_print``` might be useful   
+```require 'awesome_print'``` might be useful   
 
 ### Running
 In terminal, navigate to the base directory, inside product_searcher, 
