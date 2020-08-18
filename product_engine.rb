@@ -7,9 +7,6 @@ require_relative 'service_objects/read_file'
 require 'pry'
 
 class ProductEngine
-  def initialize
-  end 
-
   def run
     products = ServiceObjects::ReadFile.new("products.json").call
     store, value_to_attribute_map = ServiceObjects::ProcessProducts.new(products).call
